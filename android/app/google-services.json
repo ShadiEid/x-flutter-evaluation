@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "804876763045",
+    "project_id": "bloc-flutter-app-ecd72",
+    "storage_bucket": "bloc-flutter-app-ecd72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804876763045:android:a173fc178bc904da94324c",
+        "android_client_info": {
+          "package_name": "com.app.bloc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804876763045-ojook33kasmhkrbkd33hdfivir939f6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3biiDF3IVustCMfoJNVLTTAdF_Y9lQ5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804876763045-ojook33kasmhkrbkd33hdfivir939f6l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "804876763045-0u1damvp7fpvvghsp6pt85k9omvssf1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.blocApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
